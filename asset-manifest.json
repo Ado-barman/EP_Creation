@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/EP_Creation/static/css/main.7d6d2481.chunk.css",
+    "main.js": "/EP_Creation/static/js/main.daaca475.chunk.js",
+    "main.js.map": "/EP_Creation/static/js/main.daaca475.chunk.js.map",
+    "runtime-main.js": "/EP_Creation/static/js/runtime-main.2e0603ed.js",
+    "runtime-main.js.map": "/EP_Creation/static/js/runtime-main.2e0603ed.js.map",
+    "static/js/2.edce6f30.chunk.js": "/EP_Creation/static/js/2.edce6f30.chunk.js",
+    "static/js/2.edce6f30.chunk.js.map": "/EP_Creation/static/js/2.edce6f30.chunk.js.map",
+    "index.html": "/EP_Creation/index.html",
+    "static/css/main.7d6d2481.chunk.css.map": "/EP_Creation/static/css/main.7d6d2481.chunk.css.map",
+    "static/js/2.edce6f30.chunk.js.LICENSE.txt": "/EP_Creation/static/js/2.edce6f30.chunk.js.LICENSE.txt",
+    "static/media/Gangtok.92eb789b.jpg": "/EP_Creation/static/media/Gangtok.92eb789b.jpg",
+    "static/media/Golden_Pagoda.f60c0e59.jpg": "/EP_Creation/static/media/Golden_Pagoda.f60c0e59.jpg",
+    "static/media/Nainitail.5ff73500.jpg": "/EP_Creation/static/media/Nainitail.5ff73500.jpg",
+    "static/media/Rishikesh.3469a57f.jpg": "/EP_Creation/static/media/Rishikesh.3469a57f.jpg",
+    "static/media/Roing.4979f698.jpg": "/EP_Creation/static/media/Roing.4979f698.jpg",
+    "static/media/text1.240ae19e.jpg": "/EP_Creation/static/media/text1.240ae19e.jpg",
+    "static/media/text2.fdfacf10.jpg": "/EP_Creation/static/media/text2.fdfacf10.jpg",
+    "static/media/text3.4c735044.jpg": "/EP_Creation/static/media/text3.4c735044.jpg",
+    "static/media/uttrakhand.2015ebfb.jpg": "/EP_Creation/static/media/uttrakhand.2015ebfb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e0603ed.js",
+    "static/js/2.edce6f30.chunk.js",
+    "static/css/main.7d6d2481.chunk.css",
+    "static/js/main.daaca475.chunk.js"
+  ]
+}
