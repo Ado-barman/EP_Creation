@@ -1,0 +1,59 @@
+.footer-container {
+  background-color: #072227;
+  width: 100%;
+  height: 220px;
+}
+.fa-camera-retro {
+  margin-top: 10.5px;
+}
+.retro {
+  color: white;
+}
+a {
+  margin-left: 0;
+  margin-top: 0;
+  margin-right: 10px;
+  padding: 0.3rem;
+}
+a:hover {
+  background-color: white;
+  color: #072227;
+}
+.footer-logo {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+}
+.copy-right {
+  color: white;
+  animation: none;
+  display: flex;
+  justify-content: center;
+  font-size: 0.7rem;
+  margin-top: -10px;
+  margin-bottom: 0;
+}
+.social-icons {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+  .fa-camera-retro {
+    margin-top: 9px;
+  }
+  .social-icons {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.9rem;
+    cursor: pointer;
+  }
+}
