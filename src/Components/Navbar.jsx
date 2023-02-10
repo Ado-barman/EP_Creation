@@ -12,7 +12,7 @@ function Navbar() {
     <>
       <nav className="NavbarItems">
         <h1 className="logo">
-          EP Creation<i class="fa-solid fa-camera-retro"></i>
+          BackSeat Films <i class="fa-solid fa-camera-retro"></i>
         </h1>
         <div className="MenuItems" onClick={handleChange}>
           <i
